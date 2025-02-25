@@ -9,5 +9,5 @@ jobs:
     #- uses: actions/checkout@v2
     - name: Run pwd
       run: pwd
-    - nmae: Run ls -al
+    - name: Run ls -al
       run: ls -al
